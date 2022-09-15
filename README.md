@@ -1,1 +1,1 @@
-# ECG_Heart_AD8232
+# ECG Heart AD8232
