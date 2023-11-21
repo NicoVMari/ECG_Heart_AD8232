@@ -7,3 +7,7 @@ AD8232, ossia una scheda commerciale utilizzata per calcolare il movimento elett
 
 ![Cattura](https://github.com/NicoVMari/ECG_Heart_AD8232/assets/96552280/5e107cb2-66ed-473e-8715-12d49e3c4095)
 
+<p align="center">
+  <img src="[URL_dell_immagine](https://github.com/NicoVMari/ECG_Heart_AD8232/assets/96552280/5e107cb2-66ed-473e-8715-12d49e3c4095)https://github.com/NicoVMari/ECG_Heart_AD8232/assets/96552280/5e107cb2-66ed-473e-8715-12d49e3c4095" alt="cattura" width="300" />
+</p>
+
